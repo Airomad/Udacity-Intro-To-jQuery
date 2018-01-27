@@ -20,5 +20,5 @@
 
 ## Modify the content of the DOM element
 - **$('#node').val("Some value")** - Set the value of every matched element.
-- **$('#node').html("<h1>Some value</h1>")** - Set the HTML contents of every matched element.
+- **$('#node').html("<div>Some value</div>")** - Set the HTML contents of every matched element.
 - **$('#node').text("Some value")** - Set the text contents of the matched elements.
